@@ -1,0 +1,1 @@
+import{_ as e}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{c as o,f as t}from"./index-BGwiQ_ZP.js";const _={};function c(n,f){return t(),o("div",null," config ")}const r=e(_,[["render",c]]),i=Object.freeze(Object.defineProperty({__proto__:null,default:r},Symbol.toStringTag,{value:"Module"}));export{i as _};
