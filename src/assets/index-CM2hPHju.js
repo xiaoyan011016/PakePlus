@@ -1,0 +1,1 @@
+import{_ as t}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{c as a,a0 as n,f as o}from"./index-BGwiQ_ZP.js";const r={},s={class:"edit-range-container"};function c(e,d){return o(),a("div",s,[n(e.$slots,"default",{},void 0,!0)])}const i=t(r,[["render",c],["__scopeId","data-v-ea91e694"]]);export{i as default};
