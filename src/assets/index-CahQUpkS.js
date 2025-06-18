@@ -1,0 +1,1 @@
+import{_ as e}from"./demo-ruler.vue_vue_type_style_index_0_lang-L5Nx6c71.js";import{d as o,c as t,e as a,f as n}from"./index-BGwiQ_ZP.js";import"./style-BA2H1GC3.js";const i=o({__name:"index",setup(r){return(c,s)=>(n(),t("div",null,[a(e)]))}});export{i as default};
