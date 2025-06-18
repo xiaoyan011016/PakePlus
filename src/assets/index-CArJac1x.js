@@ -1,0 +1,1 @@
+import{_ as e}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{c as o,f as r}from"./index-BGwiQ_ZP.js";const c={};function n(t,a){return r(),o("div",null," approvalflow ")}const _=e(c,[["render",n]]);export{_ as default};
