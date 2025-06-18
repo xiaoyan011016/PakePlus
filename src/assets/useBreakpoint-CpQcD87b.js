@@ -1,0 +1,1 @@
+import{u as r}from"./responsiveObserve-ChmocN4c.js";import{a8 as u,o as t,O as a}from"./index-BGwiQ_ZP.js";function v(){const e=u({});let s=null;const o=r();return t(()=>{s=o.value.subscribe(n=>{e.value=n})}),a(()=>{o.value.unsubscribe(s)}),e}export{v as u};
