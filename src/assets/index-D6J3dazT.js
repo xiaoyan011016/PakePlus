@@ -1,0 +1,1 @@
+import{d as e,c as n,f as c,e as s,q as a,b_ as t}from"./index-BGwiQ_ZP.js";import{_ as r}from"./_plugin-vue_export-helper-DlAUqK2U.js";const _={class:"icon-container"},i=e({__name:"index",props:{icon:{},color:{},size:{default:14}},setup(p){return(o,f)=>(c(),n("div",_,[s(a(t),{icon:o.icon},null,8,["icon"])]))}}),m=r(i,[["__scopeId","data-v-fe4af175"]]);export{m as I};
