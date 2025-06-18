@@ -1,0 +1,1 @@
+import{_ as e}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{c as n,f as t}from"./index-BGwiQ_ZP.js";const c={};function o(r,a){return t(),n("div",null," tenantConfig ")}const _=e(c,[["render",o]]);export{_ as default};
