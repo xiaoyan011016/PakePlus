@@ -1,0 +1,1 @@
+import{_ as e}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{c,f as r}from"./index-BGwiQ_ZP.js";const t={};function n(o,s){return r(),c("div",null," widgets ")}const f=e(t,[["render",n]]);export{f as default};
