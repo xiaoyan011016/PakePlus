@@ -1,0 +1,1 @@
+import{a7 as e}from"./index-BGwiQ_ZP.js";const a=()=>e({method:"GET",url:"/api/sysTenant/list"}),n=t=>e({method:"POST",url:"/api/sysTenant/page",data:t}),r=t=>e({method:"POST",url:"/api/sysTenant/delete",data:t});export{a,n as b,r as c};
