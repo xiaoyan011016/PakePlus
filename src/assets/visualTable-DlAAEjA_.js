@@ -1,0 +1,1 @@
+import{_ as e}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{c,f as r}from"./index-BGwiQ_ZP.js";const t={};function a(o,n){return r(),c("div",null," visualtable ")}const _=e(t,[["render",a]]);export{_ as default};
