@@ -1,0 +1,1 @@
+import{a7 as r}from"./index-BGwiQ_ZP.js";const d=(s,t,a,e,o)=>r({url:"/api/sysOrg/list",method:"GET",params:{id:s,name:t,code:a,type:e,tenantId:o}}),i=s=>r({url:"/api/sysOrg/update",method:"POST",data:s}),O=s=>r({url:"/api/sysOrg/add",method:"POST",data:s}),u=s=>r({url:"/api/sysOrg/delete",method:"POST",data:s});export{i as a,O as b,d as c,u as d};
