@@ -1,0 +1,1 @@
+import{R as o,r as s,a1 as i,k as r,a3 as a,a4 as e}from"./index-BGwiQ_ZP.js";const n=o("dataViewLayout",()=>{const t=s({isShowChartList:!0,isShowLayer:!0,isShowSetting:!0,layoutContentWidth:null,layoutContentHeight:null});return i(t,()=>{a.set(e,t)},{deep:!0}),r(()=>{Object.assign(t,a.get(e))}),{dataviewLayoutState:t}});export{n as u};
