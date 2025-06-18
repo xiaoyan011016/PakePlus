@@ -1,0 +1,1 @@
+import{_ as o}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{c as n,f as r,a as s}from"./index-BGwiQ_ZP.js";const t={},a={class:"flexbox"};function c(_,e){return r(),n("div",a,e[0]||(e[0]=[s("div",null,[s("div",{class:"nb-spinner"})],-1)]))}const f=o(t,[["render",c],["__scopeId","data-v-086063e9"]]);export{f as L};
