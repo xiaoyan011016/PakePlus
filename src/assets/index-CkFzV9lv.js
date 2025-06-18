@@ -1,0 +1,1 @@
+import{_ as e}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{c,f as n}from"./index-BGwiQ_ZP.js";const o={};function r(t,s){return n(),c("div",null," openAccess ")}const f=e(o,[["render",r]]);export{f as default};
